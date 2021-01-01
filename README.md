@@ -71,6 +71,7 @@
 
 #### C individuals
 * Carlos Becker https://carlosbecker.com
+* Catalin Pit https://catalins.tech/
 * Chen Hui Jing https://www.chenhuijing.com/blog/
 * Chien Tran http://thelazylog.com/
 * Chris Hager https://www.metachris.com/blog/
@@ -193,6 +194,7 @@
 #### K individuals
 * K. Harrison https://useyourloaf.com/
 * Kai Hendry https://hendry.iki.fi/
+* Kaizoku https://kaizoku.dev/
 * Kevin Burke https://kev.inburke.com/
 * Kirill Shevchenko https://medium.com/@kirill_shevch
 * Kyle Kingsbury https://aphyr.com/
@@ -214,6 +216,7 @@
 * Marco Pivetta http://ocramius.github.io/
 * Marek Majkowski https://idea.popcount.org/
 * Mark Seaborn http://lackingrhoticity.blogspot.de/
+* Marko Denic https://denic.hashnode.dev/
 * Martin Fowler https://martinfowler.com/
 * Mary Rose Cook https://maryrosecook.com/blog/
 * Matt Aimonetti https://matt.aimonetti.net/
@@ -221,6 +224,7 @@
 * Matt Might http://matt.might.net/articles/
 * Matt Warren http://mattwarren.org/
 * Matthew Green https://blog.cryptographyengineering.com/
+* Maxi Contieri https://maximilianocontieri.com/
 * Michael Crump https://michaelcrump.net/
 * Michaël Gallego http://www.michaelgallego.fr/articles/
 * Michael Herman http://mherman.org/
@@ -244,6 +248,7 @@
 * Nick Galbreath http://www.client9.com/
 * Nicolas Liochon http://blog.thislongrun.com/
 * Nicolai Parlog (CodeFX) http://codefx.org
+* Nick Bull https://blog.nickbulljs.com/
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/
@@ -261,6 +266,7 @@
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish https://www.paulirish.com/
 * Paul Lewis https://aerotwist.com/blog/
+* Pratham Prasoon https://prathamprasoon.codes/
 * Paweł Chudzik https://blog.pchudzik.com/
 * Peter Norvig http://norvig.com/
 * Peter Steinberger http://petersteinberger.com/
@@ -295,11 +301,13 @@
 #### S individuals
 * Sakib Sami https://www.sakib.ninja
 * Sam Saffron https://samsaffron.com/
+* Sandeep Panda https://sandeep.dev/
 * Sanket Makhija https://boxpiper.com/
 * Sergey Zhuk http://sergeyzhuk.me/
 * Schakko https://schakko.de
 * Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
+* Shivam Goyal https://blog.itsshivam.com/
 * Simon Reimler https://devdactic.com/devblog/
 * Srinivas Tamada https://www.9lessons.info/
 * Stack Abuse http://www.stackabuse.com/
@@ -309,7 +317,9 @@
 * Steve Bellovin https://www.cs.columbia.edu/~smb/blog/control/
 * Steve Yegge https://steve-yegge.blogspot.com/
 * Sudhagar http://sudhagar.com/
+* Sunil Kumar https://sunilkumarc.in/
 * Swizec Teller https://swizec.com/blog/
+* Syed Fazle Rahman's Blog https://fazle.dev/
 
 #### T individuals
 * Tania Rascia https://tania.dev/
