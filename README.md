@@ -1,7 +1,7 @@
 # awesome-blogs
 
 <p align="center">
-
+  <img src="https://github.com/sanmak/awesome-blogs/blob/main/awesome-blogs.png"/>
   <h3 align="center">AWESOME BLOGS</h3>
 
   <p align="center">
