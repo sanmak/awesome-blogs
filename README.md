@@ -156,6 +156,7 @@
 #### J individuals
 * Jacopo Tarantino https://jack.ofspades.com/
 * Jackson Kelley https://console.substack.com/
+* Jake Parks https://theendofentrepreneurs.com
 * Jake Trent https://jaketrent.com
 * Jake Wharton http://jakewharton.com/blog
 * Jake Yesbeck http://jakeyesbeck.com/
